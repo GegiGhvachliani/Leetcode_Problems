@@ -1,5 +1,6 @@
 class Solution {
     func containsDuplicate(_ nums: [Int]) -> Bool {
-        return Set(nums).count != nums.count
+        let checked = Set(nums).count
+        return checked != nums.count
     }
 }
