@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 ## String
 |  |
