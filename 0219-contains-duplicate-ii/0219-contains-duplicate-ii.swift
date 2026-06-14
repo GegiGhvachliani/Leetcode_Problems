@@ -1,11 +1,15 @@
 class Solution {
     func containsNearbyDuplicate(_ nums: [Int], _ k: Int) -> Bool {
-        let numsCount = nums.count - 1
-        guard k > 0 else { return false }
-        for i in 0...numsCount {
-            for j in 1...k {
-                if i + j <= numsCount && nums[i] == nums[i + j] {
+        var dict: [Int:Int] = [:]
+        
+        for (index, value) in nums.enumerated() {
+            if (dict[value] == nil) {
+                dict[value] = index
+            } else {
+                if index - dict[value]! <= k {
                     return true
+                } else {
+                    dict[value] = index
                 }
             }
         }
