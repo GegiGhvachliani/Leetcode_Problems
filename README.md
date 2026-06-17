@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
