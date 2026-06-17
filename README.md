@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [1480-running-sum-of-1d-array](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
