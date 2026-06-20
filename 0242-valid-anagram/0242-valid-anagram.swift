@@ -12,7 +12,7 @@ class Solution {
         guard let count = charCounts[char], count > 0 else { return false }
         charCounts[char] = count - 1
     }
-    
+   
     return true
   }
 }
