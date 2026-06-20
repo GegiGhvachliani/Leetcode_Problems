@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1480-running-sum-of-1d-array](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -51,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
