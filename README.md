@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 ## Simulation
