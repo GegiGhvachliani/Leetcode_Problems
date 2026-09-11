@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
