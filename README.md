@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0383-ransom-note) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
