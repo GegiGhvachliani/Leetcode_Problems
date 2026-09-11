@@ -1,19 +1,16 @@
 class Solution {
     func isAnagram(_ s: String, _ t: String) -> Bool {
-        
-        var s1: [Character] = Array(s)
-        var s2: [Character] = Array(t)
-        
-        guard s1.count == s2.count else { return false }
+
+        guard s.count == s.count else { return false }
         
         var dict1: [Character:Int] = [:]
         var dict2: [Character:Int] = [:]
                         
-        for char in s1 {
+        for char in s {
             dict1[char, default: 0] += 1
         }
         
-        for char in s2 {
+        for char in t {
             dict2[char, default: 0] += 1
         }
         
