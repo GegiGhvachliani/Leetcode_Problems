@@ -1,18 +1,18 @@
 
+
+
 class Solution {
     func numJewelsInStones(_ jewels: String, _ stones: String) -> Int {
-        var dict: [Character:Int] = [:]
-        var dict2: [Int:Int] = [:]
         
+        var jewelsSet = Set<Character>(jewels)
+        var counter = 0
         
-        for j in jewels {
-            for s in stones {
-                if j == s {
-                    dict[j, default: 0] += 1
-                }
+        for stone in stones {
+            if jewelsSet.contains(stone) {
+                counter += 1
             }
         }
         
-        return dict.values.reduce(0, +)
+        return counter
     }
 }
