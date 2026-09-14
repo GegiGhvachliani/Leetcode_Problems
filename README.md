@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/GegiGhvachliani/Leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
